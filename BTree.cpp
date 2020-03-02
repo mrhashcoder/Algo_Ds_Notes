@@ -151,3 +151,12 @@ int main()
     }
     return 0;
 }
+//Sample input :
+10 21 31 41 51 
+output 
+10 21 31 41 51
+ //Sample input :
+70 31 31 21 51 
+output 
+21 21 31 51 70
+
