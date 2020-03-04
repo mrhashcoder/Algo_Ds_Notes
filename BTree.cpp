@@ -1,7 +1,7 @@
 
 
 // cpp program of bTree  ton insert and traverse the tree ,BTree is tree data structure which use to
- //indexing of database.
+ //indexing in database.
 
 #include <iostream>
 using namespace std;
