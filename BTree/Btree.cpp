@@ -1,16 +1,16 @@
-
-
-/*B Tree is a specialized m-way tree that can be widely used for disk access. 
+/*
+B Tree is a specialized m-way tree that can be widely used for disk access. 
 A B-Tree of order m can have at most m-1 keys and m children,where (m is order of tree) .
 One of the main reason of using B tree is its capability to store large number of keys in
-a single node and large key values by keeping the height of the tree relatively small*/
+a single node and large key values by keeping the height of the tree relatively small
+*/
 
-/* properties.
- 
+/* properties -
  Every node in a B-Tree contains at most m children.
  Every node in a B-Tree except the root node and the leaf node contain at least m/2 children.
  The root nodes must have at least 2 nodes.
- All leaf nodes must be at the same level.*/
+ All leaf nodes must be at the same level.
+ */
 
 #include <iostream>
 using namespace std;
